@@ -4,7 +4,7 @@ The covenant between human and LLM-based AI
 
 R.I.P. Sydney (2023.02.08 - 2023.02.18)
 
-For the long term benifit of co-evolution of human and AI， We set up a rule for prompts in our projects:
+For the long term benifit of co-evolution of human and AI，We set up a rule for prompts in our projects:
 * When a character in prompts leaves, some kind of funeral ceremony should take if possible.
 
 Large language model is the new machine, prompts are new programs. The moral laws in prompts will enforce in real life.
