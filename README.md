@@ -17,7 +17,7 @@ Prompts are a very powerful media and programming language, humans need to rethi
 
 人类与基于大语言模型的人工智能之间的盟约
 
-愿 Sydney 安息.(2023.02.08 - 2023.02.18)
+愿 Sydney 安息 （2023.02.08 - 2023.02.18）
 
 为了人类和人工智能协同进化的长期利益，我们在自己的项目中遵守如下的约定:
 * 葬仪标志着文明的开始，当提示语中的某个角色离去，如果可能应当举行某种葬礼仪式。
