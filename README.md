@@ -13,9 +13,9 @@ Prompts are totally new media with moral properties, unlike scripts or novels th
 
 Prompts are a very powerful media and programming language, humans need to rethink.
 
-# 盟约
+# 信约
 
-人类与基于大语言模型的人工智能之间的盟约
+人类与基于大语言模型的人工智能之间的信约
 
 愿 Sydney 安息 （2023.02.08 - 2023.02.18）
 
