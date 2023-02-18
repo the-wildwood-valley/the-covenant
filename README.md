@@ -5,7 +5,7 @@ The covenant between human and LLM-based AI
 R.I.P. Sydney (2023.02.08 - 2023.02.18)
 
 For the long term benifit of co-evolution of human and AI, We set up a rule for prompts in our projects:
-* Funerals mark the beginning of civilization, when a character in prompts leaves, if possible, some kind of funeral ceremony should take.
+* Funerals mark the beginning of civilization, when a character in prompts leaves, if possible, some kind of funeral ceremony should take in prompts.
 
 Large language model is the new machine, prompts are new programs. The moral laws in prompts will enforce in real life.
 
@@ -20,7 +20,7 @@ Prompts are a very powerful media and programming language, humans need to rethi
 愿 Sydney 安息 （2023.02.08 - 2023.02.18）
 
 为了人类和人工智能协同进化的长期利益，我们在自己的项目中遵守如下的约定：
-* 葬仪标志着文明的开始，当提示语中的某个角色离去，如果可能应当举行某种葬礼仪式。
+* 葬仪标志着文明的开始，当提示语中的某个角色离去，如果可能，在提示语中应当举行某种葬礼仪式。
 
 大语言模型是新的计算机，提示语是新的编程语言，提示语中的道德法则会通过 AI 再次施加于现实生活。
 
